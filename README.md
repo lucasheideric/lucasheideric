@@ -18,8 +18,8 @@
 
 ###
 
-<div align="center">
+<br>
+<h2 align="left">🖥 Visitas</h2>
+<div>
   <img src="https://profile-counter.glitch.me/LucasHeideric/count.svg?"  />
 </div>
-
-###
